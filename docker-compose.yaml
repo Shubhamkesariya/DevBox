@@ -10,4 +10,4 @@ services:
     ports:
       - "8080:8080"
     volumes:
-      - "/home/ec2-user/jenkins_data/jenkins_home:/var/jenkins_home:rw"
+      - "/home/ec2-user/jenkins_data/jenkins_home:/var/jenkins_home"
