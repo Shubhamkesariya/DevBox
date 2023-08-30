@@ -1,4 +1,5 @@
 # added comment to display change
+# docker-compose up
 version: '3'
 
 services:
